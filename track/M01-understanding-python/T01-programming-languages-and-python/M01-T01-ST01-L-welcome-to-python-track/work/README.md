@@ -9,7 +9,7 @@ I want to start my carrer as a software engineer so i chose python as my first l
 ## My Career Goal
 My career goal is to build a successful career in the IT field, continuously improve my technical and communication skills, and grow into a responsible professional who contributes to the organization’s success.
 ## What I Understood Today
-Complete these sentences:i think programming is a way to slove real life problems using code.
+Complete these sentences:I think programming is a way to slove real life problems using code.
 
 Programming means:Programming means writing instructions for a computer to perform a specific task or solve a problem.
 
